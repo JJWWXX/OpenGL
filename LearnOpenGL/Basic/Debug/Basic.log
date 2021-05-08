@@ -1,0 +1,5 @@
+﻿  06CoordinateSystems.cpp
+e:\opengl\resourcefile\headfile\shader.h(44): warning C4101: “e”: 未引用的局部变量
+e:\opengl\learnopengl\basic\06coordinatesystems.cpp(195): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\basic\06coordinatesystems.cpp(308): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Basic.vcxproj -> E:\OpenGL\LearnOpenGL\Debug\Basic.exe
