@@ -1,0 +1,13 @@
+﻿  glad.c
+  01_Assimp.cpp
+e:\opengl\resourcefile\headfile\shader.h(44): warning C4101: “e”: 未引用的局部变量
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(161): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(278): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(279): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(282): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\模型加载\01_assimp.cpp(289): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  模型加载.vcxproj -> E:\OpenGL\LearnOpenGL\Debug\模型加载.exe

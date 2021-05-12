@@ -1,0 +1,45 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake
+E:/OpenGL/Download/Assimp/assimp-5.0.1/CMakeLists.txt
+E:/OpenGL/Download/Assimp/assimp-5.0.1/assimp-config-version.cmake.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/assimp-config.cmake.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/assimp.pc.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/assimpTargets-debug.cmake.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/assimpTargets-release.cmake.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/assimpTargets.cmake.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/cmake-modules/FindDirectX.cmake
+E:/OpenGL/Download/Assimp/assimp-5.0.1/cmake-modules/FindPkgMacros.cmake
+E:/OpenGL/Download/Assimp/assimp-5.0.1/cmake-modules/FindZLIB.cmake
+E:/OpenGL/Download/Assimp/assimp-5.0.1/cmake-modules/PrecompiledHeader.cmake
+E:/OpenGL/Download/Assimp/assimp-5.0.1/cmake-modules/cmake_uninstall.cmake.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/cmake/HunterGate.cmake
+E:/OpenGL/Download/Assimp/assimp-5.0.1/include/assimp/config.h.in
+E:/OpenGL/Download/Assimp/assimp-5.0.1/revision.h.in
+E:/OpenGL/Download/Assimp/build/CMakeFiles/3.18.1/CMakeCCompiler.cmake
+E:/OpenGL/Download/Assimp/build/CMakeFiles/3.18.1/CMakeCXXCompiler.cmake
+E:/OpenGL/Download/Assimp/build/CMakeFiles/3.18.1/CMakeRCCompiler.cmake
+E:/OpenGL/Download/Assimp/build/CMakeFiles/3.18.1/CMakeSystem.cmake

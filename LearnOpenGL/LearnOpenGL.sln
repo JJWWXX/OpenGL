@@ -7,30 +7,48 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Basic", "Basic\Basic.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lighting", "Lighting\Lighting.vcxproj", "{12699A65-3865-4910-A848-18DAF15B3264}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模型加载", "模型加载\模型加载.vcxproj", "{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Debug|x64.ActiveCfg = Debug|x64
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Debug|x64.Build.0 = Debug|x64
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Debug|x86.ActiveCfg = Debug|Win32
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Debug|x86.Build.0 = Debug|Win32
+		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Release|Any CPU.ActiveCfg = Release|Win32
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Release|x64.ActiveCfg = Release|x64
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Release|x64.Build.0 = Release|x64
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Release|x86.ActiveCfg = Release|Win32
 		{F768E4B4-5606-46C4-A752-8482513BD0CE}.Release|x86.Build.0 = Release|Win32
+		{12699A65-3865-4910-A848-18DAF15B3264}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{12699A65-3865-4910-A848-18DAF15B3264}.Debug|x64.ActiveCfg = Debug|x64
 		{12699A65-3865-4910-A848-18DAF15B3264}.Debug|x64.Build.0 = Debug|x64
 		{12699A65-3865-4910-A848-18DAF15B3264}.Debug|x86.ActiveCfg = Debug|Win32
 		{12699A65-3865-4910-A848-18DAF15B3264}.Debug|x86.Build.0 = Debug|Win32
+		{12699A65-3865-4910-A848-18DAF15B3264}.Release|Any CPU.ActiveCfg = Release|Win32
 		{12699A65-3865-4910-A848-18DAF15B3264}.Release|x64.ActiveCfg = Release|x64
 		{12699A65-3865-4910-A848-18DAF15B3264}.Release|x64.Build.0 = Release|x64
 		{12699A65-3865-4910-A848-18DAF15B3264}.Release|x86.ActiveCfg = Release|Win32
 		{12699A65-3865-4910-A848-18DAF15B3264}.Release|x86.Build.0 = Release|Win32
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Debug|x64.ActiveCfg = Debug|x64
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Debug|x64.Build.0 = Debug|x64
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Debug|x86.Build.0 = Debug|Win32
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Release|x64.ActiveCfg = Release|x64
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Release|x64.Build.0 = Release|x64
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Release|x86.ActiveCfg = Release|Win32
+		{A5F63798-4A45-42AF-AB1B-0BDBE99F78B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
