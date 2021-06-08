@@ -1,0 +1,11 @@
+﻿  05_Framebuffers.cpp
+e:\opengl\resourcefile\headfile\shader.h(44): warning C4101: “e”: 未引用的局部变量
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(216): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(316): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(317): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(320): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\learnopengl\opengl_senior\05_framebuffers.cpp(327): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Opengl_senior.vcxproj -> E:\OpenGL\LearnOpenGL\Debug\Opengl_senior.exe

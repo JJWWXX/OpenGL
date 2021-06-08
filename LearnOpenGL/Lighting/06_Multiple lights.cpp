@@ -226,21 +226,7 @@ int main()
 
 		glfwSwapBuffers(window);
 		glfwPollEvents();
-
-
-
-
-
 	}
-
-
-
-
-
-
-
-
-
 
 }
 
